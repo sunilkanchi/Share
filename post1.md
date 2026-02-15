@@ -1,6 +1,6 @@
-# Welcome to Our Community
+# Welcome to XE Referral
 
-Thank you for joining our community! We're excited to have you here. Please take a moment to explore, and don't hesitate to reach out with any questions.
+signup for XE money transfer and use the code to send money. you will get $50 if is the first time sending money.
 
 ## What to Do Next
 - Check out the [README](https://github.com/sunilkanchi/Share) for important information.
